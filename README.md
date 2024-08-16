@@ -1,2 +1,5 @@
-# Population_Study_Project
+# Is Singapore’s annual fertility rate less affected by marriages?
+
 A study on population datasets to understand the relations between cultural behaviours and a dwindling population.
+
+To investigate the looming population issues that Singapore faces, the Singapore government identifies the unwillingness to settle down or lack of marriages as a cause for plummeting fertility rates in the country. We aim to verify the cause of low fertility rates in Singapore by examining the association between marriages in Singapore and fertility rates. Using a combination of linear regression and ratio analysis, we derive two measures of correlations to gauge different aspects of the relationship between marriage and fertility in Singapore. The findings reveal that the relationship between marriage and fertility are still functional but not as relevant as before. There are also assumptions used in the approach of this study which needs to be further considered in the findings and other factors that may be more relevant to the fertility rates of Singapore.
