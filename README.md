@@ -25,3 +25,8 @@ Yet, there are also limitations to this study that needs to be factored into the
 The coefficient of correlation also assumes a linear relationship between the two variables. While this may be true when shown in the scatter plot (Figure 1), the sensitivity ratios indicate that the spread of the dots are likely to widen in the future and illustrate a less linear relationship. Hence, the assumption of a linear relationship may not be relevant in future studies. 
 
 In summary, this study has shown that marriages in Singapore has led to higher births from 1980 to 2017. However, the influence of marriage in having children is waning and hints that marriage may not equate to children for Singaporeans. Marriage may still encourage Singaporeans to have children, but it is no longer the largest factor in the equation.
+
+# See Also
+[Source Code](./EMA.py) 
+| 
+[Full Research Report Study](https://drive.google.com/file/d/1vl-lwVDI0tsGcFcvrVDtkVm3OEMZZ5ZL/view?usp=sharing)
