@@ -1,5 +1,3 @@
-#Ernest Ng Er Rui
-#Student ID: B1580997
 #Research Question: Is Singapore's fertility rate less affected by marriages?
 import matplotlib.pyplot as plt
 import pandas as pd
