@@ -2,6 +2,10 @@
 
 This is a population research study conducted to determine the correlation of marriage and fertility rates. Through the extensive use of numpy, pandas and matplotlib libraries, datasets were clean, transform and visualise the statistical findings. Library functions such as 'diff' and 'corr' in the pandas library, were also used to compute the statistical measures required for this study. 
 
+[Source Code](./ECA.py) 
+| 
+[Full Research Report Study](https://drive.google.com/file/d/1vl-lwVDI0tsGcFcvrVDtkVm3OEMZZ5ZL/view?usp=sharing)
+
 # Research Question: Is Singapore’s annual fertility rate less affected by marriages?
 
 To investigate the looming population issues that Singapore faces, the Singapore government identifies the unwillingness to settle down or lack of marriages as a cause for plummeting fertility rates in the country. We aim to verify the cause of low fertility rates in Singapore by examining the association between marriages in Singapore and fertility rates. Using a combination of linear regression and ratio analysis, we derive two measures of correlations to gauge different aspects of the relationship between marriage and fertility in Singapore. The findings reveal that the relationship between marriage and fertility are still functional but not as relevant as before. There are also assumptions used in the approach of this study which needs to be further considered in the findings and other factors that may be more relevant to the fertility rates of Singapore.
