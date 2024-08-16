@@ -27,6 +27,6 @@ The coefficient of correlation also assumes a linear relationship between the tw
 In summary, this study has shown that marriages in Singapore has led to higher births from 1980 to 2017. However, the influence of marriage in having children is waning and hints that marriage may not equate to children for Singaporeans. Marriage may still encourage Singaporeans to have children, but it is no longer the largest factor in the equation.
 
 # See Also
-[Source Code](./EMA.py) 
+[Source Code](./ECA.py) 
 | 
 [Full Research Report Study](https://drive.google.com/file/d/1vl-lwVDI0tsGcFcvrVDtkVm3OEMZZ5ZL/view?usp=sharing)
